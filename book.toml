@@ -1,0 +1,6 @@
+[book]
+title = "Dungeons and Dragons 5.5e"
+
+# LaTeX support, just in case
+[output.html]
+mathjax-support = true

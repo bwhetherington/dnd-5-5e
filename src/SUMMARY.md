@@ -1,7 +1,8 @@
 # Summary
 
-[Introduction](README.md)
+[Introduction](./README.md)
 
 # Rules
 
-- [Combat](rules/combat.md)
+- [Combat](./rules/combat.md)
+- [Keywords](./rules/keywords.md)

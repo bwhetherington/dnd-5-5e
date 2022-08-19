@@ -2,9 +2,19 @@
 
 ## Flanking
 
-Flanking would be a pseudo-condition that grants +2 bonus to melee attacks against the flanked target. Two allies are said to be flanking a creature if the allies are not incapacitated, on opposite sides of the creature, and adjacent to the creature.
+Flanking is be a pseudo-condition that grants +2 bonus to melee attacks against the flanked target. Two allies are said to be flanking a creature if the allies are not incapacitated, on opposite sides of the creature, and adjacent to the creature. 
 
-Certain creatures (those with blindsight, tremorsense, or multiple heads) would be immune to flanking.
+A creature with blindsight, tremorsense, or multiple heads cannot be flanked.
+
+## Actions in Combat
+
+### Charge
+
+When you take the Charge action, you gain the effects of the Dash action. If you end your movement closer to a creature than where you started, you can make a melee weapon attack against that creature if it is within your reach. If you make this attack, the next attack roll made against you before the start of your next turn has advantage.
+
+> #### The Charger Feat
+> 
+> This action is intended to replace the Charger feat. The feat could be revised to enhance the Charge action in some way.
 
 # DM Advice
 

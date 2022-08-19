@@ -10,7 +10,7 @@ A creature with blindsight, tremorsense, or multiple heads cannot be flanked.
 
 ### Charge
 
-When you take the Charge action, you gain the effects of the Dash action. If you end your movement closer to a creature than where you started, you can make a melee weapon attack against that creature if it is within your reach. If you make this attack, your turn ends immediately afterwards, and the next attack roll made against you before the start of your next turn has advantage.
+When you take the Charge action, you gain the effects of the Dash action. If you end your movement closer to a creature than where you started, you can make a melee weapon attack against that creature if it is within your reach. If you make this attack, the next attack roll made against you before the start of your next turn has advantage.
 
 > #### The Charger Feat
 > 

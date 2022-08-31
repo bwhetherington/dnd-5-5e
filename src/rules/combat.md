@@ -6,6 +6,12 @@ Flanking is be a pseudo-condition that grants +2 bonus to melee attacks against 
 
 A creature with blindsight, tremorsense, or some way of seeing in multiple directions, such as multiple heads or independently-controlled eyestalks, cannot be flanked.
 
+## Two-Weapon Fighting
+
+When you take the Attack action and are wielding two light melee weapons, you may engage in two-weapon fighting, allowing you to make one weapon attack as a bonus action with one of the light melee weapons.
+
+If you make multiple attacks across both your action and bonus action as a result of this feature, at least one attack must be made with each of your held light weapons.
+
 ## Actions in Combat
 
 ### Charge
